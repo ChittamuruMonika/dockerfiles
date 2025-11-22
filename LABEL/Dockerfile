@@ -1,3 +1,3 @@
 FROM alamlinux:9
-LABEL course="docker" /
+LABEL course="docker" \
       student="monika"
