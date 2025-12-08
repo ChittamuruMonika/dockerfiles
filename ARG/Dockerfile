@@ -1,4 +1,4 @@
-ARG version
+ARG VERSION
 FROM almalinux:${VERSION:-9}
 ARG COURSE="docker" \
     STUDENT="monika"
